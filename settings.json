@@ -3,19 +3,19 @@
   "bot-account": {
     "username": "Watcher",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "Freedomen.aternos.me",
     "port": 46962,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -28,
+    "y": 60,
+    "z": -371
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm back bitches!"
       ]
     },
     "chat-log": true,

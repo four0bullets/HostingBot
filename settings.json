@@ -8,11 +8,11 @@
   "server": {
     "ip": "Freedomen.aternos.me",
     "port": 46962,
-    "version": "1.21.1",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": -28,
     "y": 60,
     "z": -371

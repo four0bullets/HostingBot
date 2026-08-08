@@ -3,24 +3,23 @@
   "bot-account": {
     "username": "Watcher",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "Freedomen.aternos.me",
     "port": 46962,
-    "version": "26.1",
-    "try-creative": false
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
-    "x": -28,
-    "y": 60,
-    "z": -371
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Slobos"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
         "I'm back bitches!"
       ]
